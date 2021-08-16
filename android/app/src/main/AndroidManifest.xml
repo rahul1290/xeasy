@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="vnr.com.xeasy">
    <application
-        android:label="xeasy"
+        android:label="Xeasy"
         android:icon="@mipmap/launcher_icon"
         android:usesCleartextTraffic="true">
         <activity
